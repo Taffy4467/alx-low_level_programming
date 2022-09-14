@@ -1,9 +1,11 @@
 # include "main.h"
 
 /**
- * main - Prints putchar and returns new line.
+ * main - Entry point
  *
- * Return always : 0
+ * Description : 'Prints putchar and returns new line.'
+ *
+ * Return always : 0 (success)
  */
 int main(void)
 {
