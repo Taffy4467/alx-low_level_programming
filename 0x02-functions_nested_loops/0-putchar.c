@@ -1,6 +1,7 @@
 # include "main.h"
 
-/* main - Prints putchar and returns new line.
+/**
+ * main - Prints putchar and returns new line.
  *
  * Return always : 0
  */
