@@ -1,4 +1,4 @@
-# include "main.hi"
+# include "main.h"
 
 /**
  * main - Prints putchar and returns new line.
