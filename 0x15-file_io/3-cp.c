@@ -1,6 +1,6 @@
 #include "main.h"
 
-int comp_close(int);
+void closer(int arg_files);
 
 /**
  * main - Main function to copy files
